@@ -13,4 +13,4 @@ namespace: kube-system
 
 resources:
   # Determine latest stable version from https://github.com/kubernetes-sigs/metrics-server/releases
-  - https://github.com/kubernetes-sigs/metrics-server/manifests/base/?ref=v0.8.0
+  - https://github.com/kubernetes-sigs/metrics-server/manifests/base/?ref=v0.8.1
